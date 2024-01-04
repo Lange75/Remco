@@ -1,0 +1,8 @@
+[
+  "PSCommandNotFoundSuggestion",
+  "PSCommandWithArgs",
+  "PSFeedbackProvider",
+  "PSLoadAssemblyFromNativeCode",
+  "PSModuleAutoLoadSkipOfflineFiles",
+  "PSSubsystemPluginModel"
+]
